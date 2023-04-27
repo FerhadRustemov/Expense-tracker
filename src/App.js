@@ -19,13 +19,18 @@ function App() {
     }
 
   }
+
+  function hanleDelete(id) {
+    setData(data.filter((obj) => id !== obj.id));
+
+  }
   return (
     <div className="App">
       <Header />
       <div className='container'>
         <Balance data={data} />
         <IncomeExpenses data={data} />
-        <TransactionList data={data}/>
+        <TransactionList data={data} hanleDelete={hanleDelete} />
         <AddTransaction inputTask={inputTask} />
 
       </div>
