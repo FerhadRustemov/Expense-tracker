@@ -1,1 +1,1 @@
-[Buraya tıklayarak projenin detaylarını inceleyebilirsiniz.](https://ferhadrustemov.github.io/Expense-tracker/)
+[Project online link.](https://ferhadrustemov.github.io/Expense-tracker/)
