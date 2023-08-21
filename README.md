@@ -1,1 +1,1 @@
-https://expense-ttracker.netlify.app/
+https://ferhadrustemov.github.io/Expense-tracker/
